@@ -384,17 +384,20 @@ Chronic Hyperglycemia
 
 | Phase | Activity | Duration |
 |-------|----------|----------|
-| **Phase 1** | Literature survey + Protocol finalization + IAEC/CPCSEA approval | Month 1-2 |
-| **Phase 2** | Procurement & authentication of plant materials | Month 2-3 |
-| **Phase 3** | Extraction → Formulation → Preliminary standardization | Month 3-4 |
-| **Phase 4** | Pilot dose/Acute tolerability (if required) | Month 4 |
-| **Phase 5** | Model induction (HFD + Fructose, 4 weeks) | Month 5-6 |
-| **Phase 6** | Treatment phase (Formulation + Standard drug, 3 weeks) | Month 6-7 |
-| **Phase 7** | Behavioral evaluation | Month 7 |
-| **Phase 8** | Blood collection → Metabolic assays | Month 7 |
-| **Phase 9** | Brain dissection → Biochemical assays | Month 7-8 |
-| **Phase 10** | Histopathology of hippocampus | Month 8 |
-| **Phase 11** | Statistical analysis + Interpretation + Thesis writing | Month 9-12 |
+| **Phase 1** | Literature survey + Protocol finalization + IAEC/CPCSEA approval | Month 1 |
+| **Phase 2** | Procurement & authentication of plant materials | Month 1-2 |
+| **Phase 3** | Extraction → Formulation → Preliminary standardization | Month 2 |
+| **Phase 4** | **Complete Animal Experimentation (60 days total)** | **Month 3** |
+|  | • Acclimatization (7 days) | Days 1-7 |
+|  | • Model induction: HFD + Fructose (28-30 days) | Days 8-37 |
+|  | • Treatment phase (21 days) | Days 38-58 |
+|  | • Behavioral tests (Days 18-21 of treatment) | Days 55-58 |
+|  | • **Sacrifice, blood & tissue collection** | **Day 58** |
+|  | • Tissue fixation & histopathology processing | Days 58-60 |
+| **Phase 5** | Biochemical assays (Blood + Brain homogenate) | Days 58-60 (Month 3) |
+| **Phase 6** | Histopathology analysis & interpretation | Month 4 |
+| **Phase 7** | Statistical analysis + Data interpretation | Month 4 |
+| **Phase 8** | Thesis writing + Manuscript preparation | Month 4-5 |
 
 ---
 
@@ -404,46 +407,47 @@ Chronic Hyperglycemia
 START
    │
    ▼
-┌──────────────────────────┐
-│  1. Literature Survey +  │
-│     Ethical Approvals    │
-└──────────────────────────┘
+┌──────────────────────────────────┐
+│  1. Literature + Approvals       │
+│     + Plant Procurement          │
+│     [Month 1-2]                  │
+└──────────────────────────────────┘
    │
    ▼
-┌──────────────────────────┐
-│  2. Plant Procurement &  │
-│     Authentication       │
-└──────────────────────────┘
+┌──────────────────────────────────┐
+│  2. Extraction & Formulation     │
+│     [Month 2]                    │
+└──────────────────────────────────┘
    │
    ▼
-┌──────────────────────────┐
-│  3. Extraction &         │
-│     Formulation          │
-└──────────────────────────┘
+┌──────────────────────────────────┐
+│  3. COMPLETE EXPERIMENTAL WORK   │
+│     [Month 3 - 60 days total]    │
+│                                  │
+│  Days 1-7:   Acclimatization    │
+│  Days 8-37:  HFD Induction      │
+│  Days 38-58: Treatment          │
+│  Days 55-58: Behavioral Tests   │
+│  Day 58:     Sacrifice & Sample │
+│              Collection          │
+│  Days 58-60: Biochemical Assays │
+│              & Histo Processing  │
+└──────────────────────────────────┘
    │
    ▼
-┌──────────────────────────┐
-│  4. Model Induction      │
-│     (HFD + Fructose)     │
-│     [4 weeks]            │
-└──────────────────────────┘
+┌──────────────────────────────────┐
+│  4. Analysis & Interpretation    │
+│     [Month 4]                    │
+│  • Histopathology analysis       │
+│  • Statistical analysis          │
+│  • Data interpretation           │
+└──────────────────────────────────┘
    │
    ▼
-┌──────────────────────────┐
-│  5. Treatment Phase      │
-│     [3 weeks]            │
-└──────────────────────────┘
-   │
-   ▼
-┌────────────┬─────────────┬────────────┐
-│ Behavioral │ Biochemical │ Histology  │
-│   Tests    │   Assays    │            │
-└────────────┴─────────────┴────────────┘
-   │
-   ▼
-┌──────────────────────────┐
-│  Analysis + Thesis       │
-└──────────────────────────┘
+┌──────────────────────────────────┐
+│  5. Thesis Writing               │
+│     [Month 4-6]                  │
+└──────────────────────────────────┘
    │
    ▼
   END
